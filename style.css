@@ -339,7 +339,7 @@ span{
 
 .services{
     background: var(--bg-color);
-    color: black;
+    color: white;
 }
 
 
@@ -417,7 +417,7 @@ span{
     height: 10.5rem;
     background: transparent;
     font-size: 5.5rem;
-    color: white;
+    color: gr;
     margin: 3rem 1.5rem 3rem 0;
     transition: 0.3s ease-in-out;
 }
